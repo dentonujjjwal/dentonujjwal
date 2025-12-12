@@ -45,23 +45,12 @@ Professional and detail‑oriented **Full Stack Developer** skilled in building 
 
 ---
 
-## 📁 **Featured Projects**
+## 📬 **Social Profiles**
 
-### 🔹 **Project Name 1**
-
-Short description of your project.
-
-* Tech Used: Java, MySQL
-* [GitHub Repo](#)
-
-### 🔹 **Project Name 2**
-
-Short description.
-
-* Tech Used: Node.js, Express.js, mysql
-* [GitHub Repo](#)
-
----
+<p align="left">
+  <a href="https://youtube.com/@dentonujjwalrai4982?si=-EgoAe9w45nFsXiw"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://www.instagram.com/dentonujjwal_rai?igsh=ZXpibGpldGM4eGdv"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
+</p>
 
 ## 📬 **Connect With Me**
 
